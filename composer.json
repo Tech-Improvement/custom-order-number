@@ -1,0 +1,20 @@
+{
+  "name": "anduel/module-order-number-prefix",
+  "version": "1.0.0",
+  "description": "N/A",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "license": [
+    "Open Software License (OSL)"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Anduel\\OrderNumberPrefix\\": ""
+    }
+  }
+}
