@@ -4,3 +4,5 @@
 <p>intall using: </p> 
 <p>run composer require anduel/module-order-number-prefix</p>
 <p>run bin/magento setup:upgrade && bin/magento setup:di:compile && bin/magento setup:static-content:deploy -f</p>
+<p>Set your prefix by going in Stores->Configurations->Anduel Order Prefix
+<p>Extension is enabled by default and has default value is "ORD-"
