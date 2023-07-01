@@ -6,9 +6,6 @@
   "require": {
     "magento/framework": "*"
   },
-  "license": [
-    "Open Software License (OSL)"
-  ],
   "autoload": {
     "files": [
       "registration.php"
